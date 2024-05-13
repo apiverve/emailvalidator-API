@@ -1,0 +1,32 @@
+{
+  "name": "@apiverve/emailvalidator",
+  "version": "1.0.0",
+  "description": "Email Validator is a simple tool for validating if an email address is valid or not. It checks the email address format and the domain records to see if the email address is valid.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiverve/emailvalidator-API.git"
+  },
+  "keywords": [
+    "email validator"," email validator api"," email validator tool"," email validator software"," email validator service"," email validator library"," email validator sdk"," email validator code"," email validator script"," email validator program"," email validator application"," email validator app"," email validator utility"," email validator helper"," email validator helper tool"," email validator helper software"," email validator helper service"," email validator helper library"," email validator helper sdk"," email validator helper code"," email validator helper script"," email validator helper program"," email validator helper application"," email validator helper app"," email validator helper utility"," email validator helper"
+  ],
+  "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiverve/emailvalidator-API/issues"
+  },
+  "homepage": "https://github.com/apiverve/emailvalidator-API",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "chai": "^3.4.1",
+    "dotenv": "^2.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "3.3.2",
+    "promise": "^7.1.1",
+    "request": "^2.69.0"
+  }
+}
