@@ -87,7 +87,6 @@ api.execute(query, function (error, data) {
     },
     "isCompanyEmail": true,
     "isFreeEmail": false,
-    "isDisposable": false,
     "checksum": 797
   }
 }
